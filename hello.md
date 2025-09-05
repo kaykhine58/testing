@@ -1,2 +1,1 @@
-Hello Git
-This is testing.
+Warmly welcome to my remote page..
